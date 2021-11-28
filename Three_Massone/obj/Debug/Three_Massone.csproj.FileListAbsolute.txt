@@ -1,0 +1,30 @@
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\bin\Debug\Three_Massone.exe.config
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\bin\Debug\Three_Massone.exe
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\bin\Debug\Three_Massone.pdb
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\obj\Debug\Three_Massone.csproj.AssemblyReference.cache
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\obj\Debug\Three_Massone.Form1.resources
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\obj\Debug\Three_Massone.Properties.Resources.resources
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\obj\Debug\Three_Massone.csproj.GenerateResource.cache
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\obj\Debug\Three_Massone.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\obj\Debug\Three_Massone.exe
+C:\Users\adm\source\repos\Three_Massone\Three_Massone\obj\Debug\Three_Massone.pdb
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\bin\Debug\Three_Massone.exe.config
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\bin\Debug\Three_Massone.exe
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\bin\Debug\Three_Massone.pdb
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\obj\Debug\Three_Massone.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\obj\Debug\Three_Massone.Form1.resources
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\obj\Debug\Three_Massone.Properties.Resources.resources
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\obj\Debug\Three_Massone.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\obj\Debug\Three_Massone.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\obj\Debug\Three_Massone.exe
+C:\Users\adm\Desktop\Three_Massone\Three_Massone\obj\Debug\Three_Massone.pdb
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\bin\Debug\Three_Massone.exe.config
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\bin\Debug\Three_Massone.exe
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\bin\Debug\Three_Massone.pdb
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\obj\Debug\Three_Massone.csproj.AssemblyReference.cache
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\obj\Debug\Three_Massone.Form1.resources
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\obj\Debug\Three_Massone.Properties.Resources.resources
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\obj\Debug\Three_Massone.csproj.GenerateResource.cache
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\obj\Debug\Three_Massone.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\obj\Debug\Three_Massone.exe
+C:\Users\adm\Desktop\Three_Massone (Kirill)\Three_Massone\obj\Debug\Three_Massone.pdb
